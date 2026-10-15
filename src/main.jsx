@@ -6,7 +6,7 @@ import AppRedirect from './AppRedirect.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    {/* <App /> */}
-    <AppRedirect/>
+    <App />
+    {/* <AppRedirect/> */}
   </StrictMode>,
 )
